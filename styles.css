@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: start;
-    background-image: url('/home/davidr/Desktop/ExtractoWeb/media/Images/extractor2.jpeg'); /* Replace 'header-image.jpg' with your image file */
+    background-image: url('/home/davidr/Proyecto-web/extractor2.jpeg'); /* Replace 'header-image.jpg' with your image file */
    background-size: cover; 
     background-position: center;
     background-color: #000000;
