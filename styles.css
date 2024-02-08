@@ -107,9 +107,11 @@ nav {
 .img-responsive-center-block{
     position: relative;
     display: flex;
-    padding: 50px 50px 10px 500px;
-    width: 550px; /* Ajusta el tamaño de los íconos de redes sociales según sea necesario */
-    height: 550px;
+    padding: 50px 50px 10px 50px;
+    width: 190px; /* Ajusta el tamaño de los íconos de redes sociales según sea necesario */
+    height: 190px;
+    margin-top: -10px;
+    margin-right: 160px;
 }
 .img-responsive-center-block2{
     position: relative;
@@ -155,7 +157,12 @@ nav {
 .textp1{
     display: flex;
     justify-content: space-around;
-    padding: 0px 60px 1px 60px;
+    padding: 0px 60px 65px 60px;
+    margin-right: 193px;
+    border-width: thin;
+    border-color: orange;
+    border-style: solid;
+    border-radius: 1rem;
 }
 .textp2{
     display: flex;
