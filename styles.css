@@ -203,10 +203,14 @@ nav {
 }
 
 .slide {
+    position: relative;
+    display: flex;
     min-width: 100%;
     box-sizing: border-box;
-    padding: 50px 0px 1px 500px; 
-    margin:  auto;
+    padding: 50px 0px 1px 100px; 
+    margin-left:  10em;
+    width: 350px; /* Ajusta el tamaño de los íconos de redes sociales según sea necesario */
+    height: 350px;
 }
 .prev-button,
 .next-button {
