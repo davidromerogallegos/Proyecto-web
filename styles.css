@@ -116,7 +116,7 @@ nav {
 .img-responsive-center-block2{
     position: relative;
     display: flex;
-    padding: 50px 500px 10px 50px;
+    padding: 50px 200px 10px 50px;
     width: 350px; /* Ajusta el tamaño de los íconos de redes sociales según sea necesario */
     height: 350px;
 }
